@@ -1,6 +1,6 @@
 # Test application for demostrating keyboard usage in React.
 
-    Article: (https://devtrium.com/posts/how-keyboard-shortcut)
+    [Article](https://devtrium.com/posts/how-keyboard-shortcut).
 
 # Getting Started with Create React App
 
