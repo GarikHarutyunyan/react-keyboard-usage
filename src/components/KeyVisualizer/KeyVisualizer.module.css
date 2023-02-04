@@ -1,9 +1,0 @@
-.container {
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-    justify-content: center;
-    min-height: inherit;
-    font-size: 80px;
-    color: lavender
-}
