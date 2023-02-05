@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-keyboard-usage/static/css/main.33e06fce.css",
+    "main.js": "/react-keyboard-usage/static/js/main.ad81d108.js",
+    "static/js/787.50e3e0d8.chunk.js": "/react-keyboard-usage/static/js/787.50e3e0d8.chunk.js",
+    "index.html": "/react-keyboard-usage/index.html",
+    "main.33e06fce.css.map": "/react-keyboard-usage/static/css/main.33e06fce.css.map",
+    "main.ad81d108.js.map": "/react-keyboard-usage/static/js/main.ad81d108.js.map",
+    "787.50e3e0d8.chunk.js.map": "/react-keyboard-usage/static/js/787.50e3e0d8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.33e06fce.css",
+    "static/js/main.ad81d108.js"
+  ]
+}
